@@ -1,8 +1,10 @@
-I asked Gemini to create demonstration code for the lerobot.js API and these are the output
+I asked Gemini to create demonstration code for the lerobot.js API and this is the output.
+
+I uploaded the demo files to a webserver, but it did not work and I haven't been able to re-engage on it, and no longer have access to the robot. The idea was to get to where I could have an LLM control the robot via the web page.
 
 
 
-
+********************************************************************************************
 Certainly\! Here's a demonstration code snippet for the LeRobot.js API. This example assumes you have a robot connected and configured, and it will make the robot move forward for one second, then turn right for one second, and finally stop.
 
 ```javascript
